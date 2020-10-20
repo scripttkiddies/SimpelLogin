@@ -1,2 +1,2 @@
 # Simpel Login With java
-Extract copress file n import to your android studio
+Extract compressed file and import to your android studio
